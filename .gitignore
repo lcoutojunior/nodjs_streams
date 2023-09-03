@@ -1,3 +1,4 @@
+./src/bigfile
 # Logs
 logs
 *.log
