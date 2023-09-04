@@ -1,0 +1,24 @@
+{
+  "name": "nodjs_streams",
+  "version": "1.0.0",
+  "description": "Trying to explaing in pragmatic way how stream works",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lcoutojunior"
+  },
+  "keywords": [
+    "streams",
+    "chunks",
+    "buffers",
+    "lcoutojunior",
+    "luiz",
+    "meirelles"
+  ],
+  "author": "Luiz Meirelles",
+  "license": "MIT"
+}
